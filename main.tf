@@ -1,9 +1,11 @@
 provider "azurerm" {
   features {}
+
+  subscription_id = "5c9075f6-0f27-4b3c-a3aa-4088fb63e272"
 }
 
 resource "azurerm_resource_group" "aks_rg" {
-  name     = "AKSResourceGroup"
+  name     = "kubernetes"
   location = "East US"
 }
 
