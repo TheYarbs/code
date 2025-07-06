@@ -1,0 +1,1 @@
+As a current Infrastructure Developer at Booz, I deal with Keycloak, Redis, and multiple programs that work with ArgoCD and Kubernetes, neither of which I am familiar with. The goal/purpose of this repository is to learn more and be better upon my return in 2026/2027.
